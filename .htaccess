@@ -3,7 +3,6 @@
 
   # Images
   ExpiresByType image/jpeg "access plus 1 year"
-  ExpiresByType image/jpg "access plus 1 year"
   ExpiresByType image/png "access plus 1 year"
   ExpiresByType image/x-icon "access plus 1 year"
 
